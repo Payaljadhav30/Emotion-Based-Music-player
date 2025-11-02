@@ -1,3 +1,4 @@
+
 # 🎵 Emotion-Based Music Player
 
 An AI-powered music player that analyzes your **text input** to detect emotions and automatically generates personalized **Spotify playlists** based on your mood.
@@ -41,3 +42,4 @@ pip install -r requirements.txt
 
 # 5️⃣ Run the app
 python app.py
+
